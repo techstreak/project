@@ -17,4 +17,4 @@ pip install -r requirements.txt
 
 step4: To run the script
 
-steamlit run main.py
+streamlit run main.py
